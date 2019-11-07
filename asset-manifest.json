@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ChauHuynh17071994/ReactWebsite/static/css/main.a285fb61.chunk.css",
+    "main.js": "/ChauHuynh17071994/ReactWebsite/static/js/main.f039b42d.chunk.js",
+    "main.js.map": "/ChauHuynh17071994/ReactWebsite/static/js/main.f039b42d.chunk.js.map",
+    "runtime-main.js": "/ChauHuynh17071994/ReactWebsite/static/js/runtime-main.dad1abe9.js",
+    "runtime-main.js.map": "/ChauHuynh17071994/ReactWebsite/static/js/runtime-main.dad1abe9.js.map",
+    "static/css/2.4b3ccb6c.chunk.css": "/ChauHuynh17071994/ReactWebsite/static/css/2.4b3ccb6c.chunk.css",
+    "static/js/2.f93ce292.chunk.js": "/ChauHuynh17071994/ReactWebsite/static/js/2.f93ce292.chunk.js",
+    "static/js/2.f93ce292.chunk.js.map": "/ChauHuynh17071994/ReactWebsite/static/js/2.f93ce292.chunk.js.map",
+    "index.html": "/ChauHuynh17071994/ReactWebsite/index.html",
+    "precache-manifest.89c36c4b6b41d1625a85fcf5c60c5171.js": "/ChauHuynh17071994/ReactWebsite/precache-manifest.89c36c4b6b41d1625a85fcf5c60c5171.js",
+    "service-worker.js": "/ChauHuynh17071994/ReactWebsite/service-worker.js",
+    "static/css/2.4b3ccb6c.chunk.css.map": "/ChauHuynh17071994/ReactWebsite/static/css/2.4b3ccb6c.chunk.css.map",
+    "static/css/main.a285fb61.chunk.css.map": "/ChauHuynh17071994/ReactWebsite/static/css/main.a285fb61.chunk.css.map",
+    "static/media/01-thumbnail.jpg": "/ChauHuynh17071994/ReactWebsite/static/media/01-thumbnail.eda45981.jpg",
+    "static/media/02-thumbnail.jpg": "/ChauHuynh17071994/ReactWebsite/static/media/02-thumbnail.e52270b3.jpg",
+    "static/media/03-thumbnail.jpg": "/ChauHuynh17071994/ReactWebsite/static/media/03-thumbnail.09c41872.jpg",
+    "static/media/04-thumbnail.jpg": "/ChauHuynh17071994/ReactWebsite/static/media/04-thumbnail.80c8ff5c.jpg",
+    "static/media/05-thumbnail.jpg": "/ChauHuynh17071994/ReactWebsite/static/media/05-thumbnail.68d8d949.jpg",
+    "static/media/06-thumbnail.jpg": "/ChauHuynh17071994/ReactWebsite/static/media/06-thumbnail.20456fff.jpg",
+    "static/media/1.jpg": "/ChauHuynh17071994/ReactWebsite/static/media/1.e25053c4.jpg",
+    "static/media/2.jpg": "/ChauHuynh17071994/ReactWebsite/static/media/2.7006d696.jpg",
+    "static/media/3.jpg": "/ChauHuynh17071994/ReactWebsite/static/media/3.838cdb86.jpg",
+    "static/media/about.jpg": "/ChauHuynh17071994/ReactWebsite/static/media/about.befe56be.jpg",
+    "static/media/food.jpeg": "/ChauHuynh17071994/ReactWebsite/static/media/food.e386e10c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dad1abe9.js",
+    "static/css/2.4b3ccb6c.chunk.css",
+    "static/js/2.f93ce292.chunk.js",
+    "static/css/main.a285fb61.chunk.css",
+    "static/js/main.f039b42d.chunk.js"
+  ]
+}
